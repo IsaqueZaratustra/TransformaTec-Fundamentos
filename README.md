@@ -7,4 +7,6 @@ Aula 7 - primeiros passos em lógica de programação
 <br>
 Aula 8 - Algoritmos e pseudocódigo
 <br>
+Aula 9 - Estruturas Condicionais em Portugal
+<br>
 
