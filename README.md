@@ -19,3 +19,4 @@ Aula 13 - Entendo a importância do Git com GitHub
 <br>
 Aula 14 - Resolvendo seu primeiro desafio de projeto
 <br>
+Aula 15 - Revisão, Dúvidas e Resolução de Exercícios
