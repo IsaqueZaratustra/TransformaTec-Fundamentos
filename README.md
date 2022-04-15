@@ -15,3 +15,5 @@ Aula 11 - Estruturas de repetição em portugol
 <br>
 Aula 12 - Introdução à Estruturas de Dados em portugol
 <br>
+Aula 13 - Entendo a importância do Git com GitHub
+<br>
